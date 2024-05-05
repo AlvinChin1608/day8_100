@@ -29,7 +29,7 @@ ceasar(text, shift)
 
 #Method 2 
 """
-But this has an issue that is user able to type anything apart from the decode would recognised as encode
+But this has an issue that is anything apart from 'decode' would recognised as encode
 
 def caesar(start_text, shift_amount, cipher_direction):
   end_text = ""
